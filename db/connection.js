@@ -11,7 +11,7 @@ const db = mysql.createConnection (
     //Your MySQL Password
     password: 'password',
     
-    database: 'emplotrack'
+    database: 'employee_db'
 
     },
     console.log('Connected to the election database')
