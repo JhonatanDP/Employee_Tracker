@@ -3,7 +3,7 @@
 Project Repository address: https://github.com/JhonatanDP/Employee_Tracker
 
 Project walkthrough video:
-
+https://user-images.githubusercontent.com/106892660/193156363-2610390c-24fb-419a-a2e0-c35f51a443a5.mp4
 
 
 ## User Story
@@ -32,3 +32,11 @@ Project walkthrough video:
 - THEN I am prompted to enter the employee’s first name, last name, role, and manager, and that employee is added to the database
 - WHEN I choose to update an employee role
 - THEN I am prompted to select an employee to update and their new role and this information is updated in the database
+
+## Done to complete Project.
+
+- I installed mysql, inquirer and console.table package.
+- I created and schema.sql file to create the database and add tables.
+- I created a seed file to populate those tables.
+- I created a connection file to connect to the local mysql installation.
+- The server.js contain all the code for this application.
